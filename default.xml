@@ -2,7 +2,4 @@
 <manifest>
     <remote  fetch="https://github.com/terryWongGame", name="origin"/>
     <default remote="origin" revision="master" sync-j="4" />
-    <project  />
-    <project  />
-    <project  />
 </manifest>
